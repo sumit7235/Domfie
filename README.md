@@ -211,4 +211,7 @@ This codebase was built in 7 distinct engineering phases.
 ├── dom_specialist_dataset.jsonl    # The Synthetic Training Data
 ├── requirements.txt                # Kindly check this out
 ├── LICENSE                         # Kindly check this out too
-└── README.md                       # You are here
+├── README.md                       # You are here
+└── assets/
+    ├── ui_screenshot.png         # UI image (resized to a fixed height)
+    ├── demo.gif                  # Live demo GIF (resized to match UI height)
