@@ -8,19 +8,20 @@
 > **"Scrapers shouldn't break just because a `<div>` changed."**
 
 ## Table of Contents
-1. [Project Manifesto](#-project-manifesto)
-2. [System Architecture](#-system-architecture)
-3. [Quick Start Guide](#-quick-start-guide)
-4. [The Engineering Journey](#-the-engineering-journey)
+
+1. [Project Manifesto](#project-manifesto)
+2. [System Architecture](#system-architecture)
+3. [Quick Start Guide](#quick-start-guide)
+4. [The Engineering Journey](#the-engineering-journey)
     - [1.0 Data Engineering](#10-data-engineering-the-universal-dataset)
     - [2.0 Fine-Tuning](#20-fine-tuning-the-skill-layer)
     - [3.0 RAG Pipeline](#30-rag-pipeline-the-spotter-engine)
     - [4.0 Context Engineering](#40-context-engineering-html-aware-rag)
     - [5.0 MLOps](#50-mlops-quantization--export)
     - [6.0 Agent Logic](#60-the-autonomous-agent-loop)
-5. [Reliability Engineering](#-reliability-engineering-qa--debugging-protocols)
-6. [Compliance & Ethics](#-compliance--ethical-governance)
-7. [Repository Structure](#-repository-structure)
+5. [Reliability Engineering](#reliability-engineering-qa--debugging-protocols)
+6. [Disclaimer & Research Mode](#disclaimer--research-mode)
+7. [Repository Structure](#repository-structure)
 
 ---
 
